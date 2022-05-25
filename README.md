@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vincent Njeru
-- 👀 I’m interested in Android Development & Web Dev
+- 👀 I’m an Android Development & Web Dev
 - 🌱 I’m currently learning Flutter
+- 🐱‍👤 Intrested in DevSecOps
 - 📫 How to reach me => info@vinnjeru.com
 
 <!---
