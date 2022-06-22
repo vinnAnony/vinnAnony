@@ -5,7 +5,7 @@
     🐱‍👤 I'm interested in DevSecOps and Blockchain
     💬 Ask me about Laravel and Android development (Java)
     📫 How to reach me: dev@vinnjeru.com
-    😄 Pronouns: He/His
+    😄 Pronouns: Him/He/His
     ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
