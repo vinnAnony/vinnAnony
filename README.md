@@ -1,12 +1,15 @@
 # 💫About Me :
 
-    🔭 I’m currently working on Mulla.
-    🌱 I’m currently learning more about Flutter.
-    🐱‍👤 I'm interested in Blockchain & Web3.
-    💬 Ask me about Flutter, Laravel and Android development(Java/Kotlin)
-    📫 How to reach me: dev@vinnjeru.com
-    😄 Pronouns: Him/He/His
-    ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+🔭 I’m currently working on [Mulla](https://play.google.com/store/apps/details?id=com.vinnjeru.mulla).
+
+🐱‍👤 I'm interested in Blockchain & Web3.
+
+💬 Ask me about Microsoft Dynamics Nav, Business Central, Flutter, Laravel and Android development(Java/Kotlin)
+
+📫 How to reach me: dev@vinnjeru.com
+
+⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+
 
 
 ## 🌐Socials
