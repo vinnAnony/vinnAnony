@@ -1,4 +1,4 @@
-### 💫About Me :
+#### Jambo, I'm Vincent Mbugua 👋
 
 - 🔭 I’m currently working on [Mulla](https://play.google.com/store/apps/details?id=com.vinnjeru.mulla).
 - 👯 I’m looking to collaborate on Flutter, Android, Laravel or Node.js projects
