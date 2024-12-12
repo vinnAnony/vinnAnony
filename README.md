@@ -3,8 +3,8 @@
 #### Full-Stack Software Engineer
 
 - 🔭 I’m currently working on [Mulla](https://play.google.com/store/apps/details?id=com.vinnjeru.mulla).
-- 👯 I’m looking to collaborate on Flutter, Django, Laravel or Node.js projects
-- 💬 Ask me about Flutter, Laravel, Android(Java/Kotlin), Microsoft Dynamics Nav, Microsoft Business Central
+- 👯 I’m looking to collaborate on Flutter, Elixir, Django, or Node.js projects
+- 💬 Ask me about Elixir, Flutter, Python, Django
 - 🐱‍ I'm interested in Blockchain & Web3.
 - 📫 How to reach me: dev@vinnjeru.com
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
@@ -16,7 +16,7 @@
         <td>Mobile</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
@@ -31,11 +31,11 @@
     <tr>
         <td>Backend</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://logowiki.net/uploads/logo/p/phoenix-36.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
