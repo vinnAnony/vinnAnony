@@ -1,4 +1,4 @@
-### Jambo 👋, I'm Vincent Mbugua 
+### Jambo 👋, I'm Vincent Njeru 
 
 #### Full-Stack Software Engineer
 
