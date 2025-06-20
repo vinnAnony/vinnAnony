@@ -1,12 +1,12 @@
-### Jambo 👋, I'm Vincent Njeru 
+### Jambo 👋, I'm Vinn Njeru 
 
-#### Full-Stack Software Engineer
+#### Full-Stack Software Engineer(Web/Mobile)
 
 - 🔭 I’m currently working on [Mulla](https://play.google.com/store/apps/details?id=com.vinnjeru.mulla).
-- 👯 I’m looking to collaborate on Flutter, Elixir, Django, or Node.js projects
+- 👯 I’m looking to collaborate on Elixir,Flutter,Python, Django, Javascript or Node.js projects
 - 💬 Ask me about Elixir, Flutter, Python, Django
 - 🐱‍ I'm interested in Blockchain & Web3.
-- 📫 How to reach me: dev@vinnjeru.com
+- 📫 How to reach me: vinn.njeru@outlook.com
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
